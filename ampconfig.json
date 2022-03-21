@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Delightcom",
+    "description": "",
+    "version": "dyhjpiia",
+    "id": "cl10yh50362996801s6phs888bm",
+    "url": "https://app.amplication.com/cl10yh50362996801s6phs888bm",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl10yh50362996801s6phs888bm",
+      "authProvider": "Jwt"
+    }
+  }
+}
